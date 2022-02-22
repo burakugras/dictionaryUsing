@@ -1,0 +1,6 @@
+/Users/macburak/Projects/phoneBook/phoneBook/bin/Debug/phoneBook.exe
+/Users/macburak/Projects/phoneBook/phoneBook/bin/Debug/phoneBook.pdb
+/Users/macburak/Projects/phoneBook/phoneBook/obj/Debug/phoneBook.csproj.AssemblyReference.cache
+/Users/macburak/Projects/phoneBook/phoneBook/obj/Debug/phoneBook.csproj.CoreCompileInputs.cache
+/Users/macburak/Projects/phoneBook/phoneBook/obj/Debug/phoneBook.exe
+/Users/macburak/Projects/phoneBook/phoneBook/obj/Debug/phoneBook.pdb
